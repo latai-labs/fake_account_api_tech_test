@@ -1,0 +1,17 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "account_id": "5555555555",
+      "name": "Tienda"
+    },
+    {
+      "id": 2,
+      "account_id": "6666666666",
+      "name": "Tienda"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
